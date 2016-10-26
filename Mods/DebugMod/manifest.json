@@ -1,0 +1,8 @@
+﻿{
+	"UniqueId" : "DebugMod",
+	"Name" : "Debug Mod",
+	"Author": "Travoos",
+	"ModDll": "DebugMod",
+	"Version" : "0.1",
+	"Description" : "Stardew Valley debug menu that other mods can use."
+}
