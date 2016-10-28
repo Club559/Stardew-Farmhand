@@ -87,6 +87,8 @@
     <Compile Include="API\Game.cs" />
     <Compile Include="API\Generic\ItemChancePair.cs" />
     <Compile Include="API\Locations\MapActionInformation.cs" />
+    <Compile Include="API\NPCs\NPCInformation.cs" />
+    <Compile Include="API\NPCs\NPCUtilities.cs" />
     <Compile Include="API\Player\QuestInformation.cs" />
     <Compile Include="API\Player\Quest.cs" />
     <Compile Include="API\Player\MailInformation.cs" />
@@ -143,6 +145,7 @@
     <Compile Include="Content\BlueprintInjector.cs" />
     <Compile Include="Content\CropInjector.cs" />
     <Compile Include="Content\DelegatedContentInjector.cs" />
+    <Compile Include="Content\NPCInjector.cs" />
     <Compile Include="Content\QuestInjector.cs" />
     <Compile Include="Content\MailInjector.cs" />
     <Compile Include="Content\MapInjector.cs" />
@@ -225,6 +228,7 @@
     <Compile Include="Mods\ModState.cs" />
     <Compile Include="Overrides\Characters\Monster.cs" />
     <Compile Include="Overrides\Game1.cs" />
+    <Compile Include="Overrides\NPC.cs" />
     <Compile Include="Overrides\SerializableDictionary.cs" />
     <Compile Include="Overrides\ShopMenu.cs" />
     <Compile Include="Overrides\StardewObject.cs" />

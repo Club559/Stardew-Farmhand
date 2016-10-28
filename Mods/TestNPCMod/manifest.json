@@ -1,0 +1,22 @@
+﻿{
+	"UniqueId" : "TestNPCMod",
+	"Name" : "Test NPC Mod",
+	"Author": "Travoos",
+	"ModDll": "TestNPCMod",
+	"Version" : "0.1",
+	"Description" : "An example NPC mod.",
+	"Content" : 
+	{
+		"Textures" : 
+		[
+			{
+				"Id" : "portrait_Ashley",
+				"File" : "AshleyPortrait.png"
+			},
+			{
+				"Id" : "spritesheet_Ashley",
+				"File" : "AshleySpritesheet.png"
+			}
+		]
+	}
+}

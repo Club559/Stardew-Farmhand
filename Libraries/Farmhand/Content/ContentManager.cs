@@ -29,7 +29,8 @@ namespace Farmhand.Content
             new DelegatedContentInjector(),
             new MapInjector(),
             new MailInjector(),
-            new QuestInjector()
+            new QuestInjector(),
+            new NPCInjector()
         };
 
         public ContentManager(IServiceProvider serviceProvider, string rootDirectory, System.Globalization.CultureInfo currentCulture, string languageCodeOverride)
